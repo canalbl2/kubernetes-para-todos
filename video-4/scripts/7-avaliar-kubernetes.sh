@@ -18,3 +18,6 @@ exit
 # Vamos verificar os daemons do Docker sendo executados
 ps aux | grep dockerd
 
+# Por fim, fora do container, vamos executar o Kubernetes Dashboard UI
+minikube dashboard
+
