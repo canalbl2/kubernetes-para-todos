@@ -12,5 +12,12 @@ Em que X representa o número do vídeo. Dentro de cada diretório, você poder�
 
 Se você encontrar algum problema nos slides, scripts ou códigos, ou caso tenha alguma dúvida de como executá-los, abra uma issue explicando o seu caso.
 
+## Lista de vídeos publicados
+
+* Vídeo 1 (07/05/2021) - **Containers: Por que você deveria utilizá-los?**
+* Vídeo 2 (15/05/2021) - **Docker: Por que ele é importante para o Kubernetes?**
+* Vídeo 3 (02/06/2021) - **Kubernetes: O que é e para que serve?**
+* [Vídeo 4 (25/06/2021) - **Minikube: Kubernetes rápido e fácil**](video-4/README.md)
+
 ---
 Canal BL2  - TI direto ao ponto!
