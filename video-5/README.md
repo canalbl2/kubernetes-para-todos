@@ -6,7 +6,7 @@ Também vamos aprender um pouco mais sobre alguns conceitos referentes aos nós 
 
 Espero que gostem do vídeo. No diretório `scripts`, temos os *scripts* que foram executados durante o vídeo. Já no diretório `slides` temos os *slides* utilizados. Caso encontrem algum problema com os *scripts* fiquem a vontade para comentar no canal, ou abrir uma *issue* aqui no projeto.
 
-[Assista no YouTube!](https://youtu.be/VCV5v36FoM8)
+[Assista no YouTube!](https://youtu.be/RRMV2LDNa5E)
 
 ---
 Canal BL2  - TI direto ao ponto!

@@ -18,6 +18,7 @@ Se você encontrar algum problema nos slides, scripts ou códigos, ou caso tenha
 * Vídeo 2 (15/05/2021) - **Docker: Por que ele é importante para o Kubernetes?**
 * Vídeo 3 (02/06/2021) - **Kubernetes: O que é e para que serve?**
 * [Vídeo 4 (25/06/2021) - **Minikube: Kubernetes rápido e fácil**](video-4/README.md)
+* [Vídeo 5 (23/07/2021) - **Kubectl e Nodes: Controle seu cluster Kubernetes**](video-5/README.md)
 
 ---
 Canal BL2  - TI direto ao ponto!
