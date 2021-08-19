@@ -41,5 +41,5 @@ kubectl get pods
 # Gerar arquivo do deployment
 kubectl get deployment/NOME_DO_DEPLOYMENT -o yaml > server.yaml 
 
-# Alterar deployment com arquivo
+# Alterar deployment com arquivo (modo configuração de objeto imperativa)
 kubectl replace deployment/NOME_DO_DEPLOYMENT -f server.yaml
