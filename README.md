@@ -20,6 +20,6 @@ Se você encontrar algum problema nos slides, scripts ou códigos, ou caso tenha
 * [Vídeo 4 (25/06/2021) - **Minikube: Kubernetes rápido e fácil**](video-4/README.md)
 * [Vídeo 5 (23/07/2021) - **Kubectl e Nodes: Controle seu cluster Kubernetes**](video-5/README.md)
 * [Vídeo 6 (02/08/2021) - **Deployment, Pod e Container: O que é e para que serve cada um deles?**](video-6/README.md)
-
+* [Vídeo 7 (19/08/2021) - **Deployment: Implantando a primeira aplicação no Kubernetes**](video-7/README.md)
 ---
 Canal BL2  - TI direto ao ponto!
