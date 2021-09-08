@@ -1,4 +1,4 @@
-# Vídeo 7 - Deployment: Implantando a primeira aplicação no Kubernetes
+# Vídeo 8 - Deployment: Entendendo o arquivo YAML
 
 Vamos destrinchar o arquivo YAML do deployment, e entender o que significa cada linha!
 
