@@ -33,5 +33,6 @@ Pessoal, seguem alguns links interessantes referentes ao Kubernetes!
 Repositório que realiza o deploy do Kubernetes para ambiente de teste, usando Vagrant e Ansible:
 
 https://github.com/miltlima/playground-k8s
+
 ---
 Canal BL2  - TI direto ao ponto!
