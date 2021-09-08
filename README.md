@@ -21,5 +21,17 @@ Se você encontrar algum problema nos slides, scripts ou códigos, ou caso tenha
 * [Vídeo 5 (23/07/2021) - **Kubectl e Nodes: Controle seu cluster Kubernetes**](video-5/README.md)
 * [Vídeo 6 (02/08/2021) - **Deployment, Pod e Container: O que é e para que serve cada um deles?**](video-6/README.md)
 * [Vídeo 7 (19/08/2021) - **Deployment: Implantando a primeira aplicação no Kubernetes**](video-7/README.md)
+* [Vídeo 8 (31/08/2021) - **Deployment: Entendendo o arquivo YAML**](video-7/README.md)
+
+
+# Links interessantes!
+
+Pessoal, seguem alguns links interessantes referentes ao Kubernetes!
+
+## K8s playground
+
+Repositório que realiza o deploy do Kubernetes para ambiente de teste, usando Vagrant e Ansible:
+
+https://github.com/miltlima/playground-k8s
 ---
 Canal BL2  - TI direto ao ponto!
