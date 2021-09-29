@@ -1,8 +1,8 @@
 # Criar arquivo do deployment
-kubectl create deployment NOME_DO_DEPLOYMENT --image=nginx --dry-run=client -o yaml > server.xml deployment-arquivo.yaml
+kubectl create deployment server --image=nginx --dry-run=client -o yaml > server.yml
 
 # Visualizar conteúdo do arquivo
-cat deployment-arquivo.yaml
+cat server.yml
 
 # Implantar deployment com arquivo (modo configuração de objeto declarativa)
-kubectl apply -f deployment-arquivo.yaml
+kubectl apply -f server.yml
