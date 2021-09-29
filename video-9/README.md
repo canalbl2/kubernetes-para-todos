@@ -12,7 +12,7 @@ Caso queira ser informado dos próximos vídeos, se inscreva no canal, e ative a
 
 [Assista no YouTube!](https://youtu.be/Z3d-HvvowBk)
 
-![Slide](/-/blob/main/video-9/slides/9%20-%20Ephemeral%20Storage:%20Voc%C3%AA%20est%C3%A1%20atento%20a%20ele%3F%3F%3F.pdf)
+![Slide](-/blob/main/video-9/slides/9%20-%20Ephemeral%20Storage:%20Voc%C3%AA%20est%C3%A1%20atento%20a%20ele%3F%3F%3F.pdf)
 
 ---
 Canal BL2  - TI direto ao ponto!
