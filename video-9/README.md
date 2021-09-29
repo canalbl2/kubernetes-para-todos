@@ -12,7 +12,7 @@ Caso queira ser informado dos próximos vídeos, se inscreva no canal, e ative a
 
 [Assista no YouTube!](https://youtu.be/Z3d-HvvowBk)
 
-![Slide](slides)
+[Slide](slides)
 
 ---
 Canal BL2  - TI direto ao ponto!
