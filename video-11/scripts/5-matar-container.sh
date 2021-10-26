@@ -1,0 +1,2 @@
+# Mata o comando principal do container, fazendo com que o container seja finalizado e recriado posteriormente.
+kubectl exec $(kubectl get pods -l app=server -o name) -c nginx -it -- /bin/sh -c "kill 1"
