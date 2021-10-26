@@ -23,6 +23,7 @@ Se você encontrar algum problema nos slides, scripts ou códigos, ou caso tenha
 * [Vídeo 7 (19/08/2021) - **Deployment: Implantando a primeira aplicação no Kubernetes**](video-7/README.md)
 * [Vídeo 8 (31/08/2021) - **Deployment: Entendendo o arquivo YAML**](video-8/README.md)
 * [Vídeo 9 (22/09/2021) - **Ephemeral Storage: Você está atento a ele???**](video-9/README.md)
+* [Vídeo 10 (01/10/2021) - **EmptyDir: Volume Efêmero no Kubernetes**](video-10/README.md)
 
 
 # Links interessantes!
