@@ -6,7 +6,7 @@ Assista o vídeo, e fique a vontade para comentar ou tirar dúvidas sobre ele. S
 
 Caso queira ser informado dos próximos vídeos, se inscreva no canal, e ative as notificações. Obrigado!
 
-[Assista no YouTube!](https://youtu.be/zRebL2RSLbU)
+[Assista no YouTube!](https://youtu.be/jikbl17-v9c)
 
 [Slide](slides)
 
