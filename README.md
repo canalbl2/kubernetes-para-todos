@@ -24,9 +24,9 @@ Se você encontrar algum problema nos slides, scripts ou códigos, ou caso tenha
 * [Vídeo 8 (31/08/2021) - **Deployment: Entendendo o arquivo YAML**](video-8/README.md)
 * [Vídeo 9 (22/09/2021) - **Ephemeral Storage: Você está atento a ele???**](video-9/README.md)
 * [Vídeo 10 (01/10/2021) - **EmptyDir: Volume Efêmero no Kubernetes**](video-10/README.md)
-* [Vídeo 11 (28/10/2021) - **EmptyDir: Como montar o volume na prática! **](video-11/README.md)
-* [Vídeo 12 (17/11/2021) - **HostPath: Armazenamento persistente e local no Kubernetes! **](video-12/README.md)
-* [Vídeo 13 (01/04/2022) - **Local Volume: O que é, para que serve e quando usar? **](video-13/README.md)
+* [Vídeo 11 (28/10/2021) - **EmptyDir: Como montar o volume na prática!**](video-11/README.md)
+* [Vídeo 12 (17/11/2021) - **HostPath: Armazenamento persistente e local no Kubernetes!**](video-12/README.md)
+* [Vídeo 13 (01/04/2022) - **Local Volume: O que é, para que serve e quando usar?**](video-13/README.md)
 
 
 # Links interessantes!
