@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: nginx
+  name: server-com-host-path
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nginx
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - image: nginx
+        name: nginx        
+        resources: {}
+        ports:
+        - name: http
+          protocol: TCP
+          containerPort: 80
+          
+        volumeMounts:
+          - name: host-path
+            mountPath: /usr/share/nginx/html     
+      volumes:
+      - name: host-path
+        hostPath:
+          path: /home/video-14/    
+status: {}

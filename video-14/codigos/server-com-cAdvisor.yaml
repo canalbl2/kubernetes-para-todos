@@ -1,0 +1,50 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: cAdvisor
+  name: server-com-cAdvisor
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cAdvisor
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: cAdvisor
+    spec:
+      containers:
+      - image: k8s.gcr.io/cadvisor:v0.36.0
+        name: cadvisor
+        volumeMounts:
+          - name: docker
+            mountPath: /var/lib/docker
+            readOnly: true         
+          - name: docker-sock
+            mountPath: /var/run/docker.sock
+            readOnly: true          
+          - name: sys
+            mountPath: /sys
+            readOnly: true
+          - name: dev-disk
+            mountPath: /dev/disk
+            readOnly: true   
+        resources: {}
+      volumes:
+      - name: docker
+        hostPath:
+          path: /var/lib/docker
+      - name: docker-sock
+        hostPath:
+          path: /var/run/docker.sock
+      - name: sys
+        hostPath:
+          path: /sys
+      - name: dev-disk
+        hostPath:
+          path: /dev/disk  
+status: {}
