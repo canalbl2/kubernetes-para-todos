@@ -6,7 +6,7 @@ Assista o vídeo, e fique a vontade para comentar ou tirar dúvidas sobre ele. S
 
 Caso queira ser informado dos próximos vídeos, se inscreva no canal, e ative as notificações. Obrigado!
 
-[Assista no YouTube!](https://youtu.be/6EZiPY9mqHQ)
+[Assista no YouTube!](https://youtu.be/i0BTgBn2nnQ)
 
 ---
 Canal BL2  - TI direto ao ponto!
