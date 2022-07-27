@@ -1,0 +1,1 @@
+sudo docker exec -it minikube mkdir -p /app/data
