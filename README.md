@@ -29,6 +29,7 @@ Se você encontrar algum problema nos slides, scripts ou códigos, ou caso tenha
 * [Vídeo 13 (01/04/2022) - **Local Volume: O que é, para que serve e quando usar?**](video-13/README.md)
 * [Vídeo 14 (26/04/2022) - **Host Path na PRÁTICA: Como e quando usar**](video-14/README.md)
 * [Vídeo 17 (27/07/2022) - **Volume Local: 4 PASSOS SIMPLES para mapear o volume no Kubernetes NA PRÁTICA!**](video-17/README.md)
+* [Vídeo 20 (07/11/2022) - **Service ClusterIP: Conceitos importantes, segredos e PRÁTICA!**](video-20/README.md)
 # Links interessantes!
 
 Pessoal, seguem alguns links interessantes referentes ao Kubernetes!

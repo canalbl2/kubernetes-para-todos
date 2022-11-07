@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: outro-pod
+  labels:
+    app: outro-pod
+  namespace: outro-namespace
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: outro-pod
+  template:
+    metadata:
+      labels:
+        app: outro-pod
+    spec:
+      containers:
+        - image: yokogawa/siege
+          name: frontend
+          command: ["tail", "-f", "/var/log/dpkg.log"]
