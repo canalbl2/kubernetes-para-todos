@@ -1,0 +1,1 @@
+siege -d1 -r10 -c25 http://meu-backend:7070 
